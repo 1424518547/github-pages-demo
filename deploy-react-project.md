@@ -24,7 +24,7 @@ $ yarn add gh-pages
 本地git配置:
 ```
 $ git init
-$ git git remote add origin https://github.com/{username}/github-pages-demo
+$ git git remote add origin https://github.com/{username}/{username}.github.io
 ```
 执行构建推送命令：
 ```
@@ -32,7 +32,7 @@ $ yarn deploy
 ```
 当看到命令行结尾出现如下输出时，代表构建完毕的项目已经推送到GitHub项目的master分支;
 
-现在在浏览器输入[https://1424518547.github.io/github-pages-demo](https://1424518547.github.io/github-pages-demo) 地址应该就能看到部署好的网页;
+现在在浏览器输入[https://1424518547.github.io/github-pages-demo](https://1424518547.github.io) 地址应该就能看到部署好的网页;
 
 #### 通过create-reat-app创建的项目打包之后，访问项目index.html页面会空白或者报错，无法访问。这里主要是打包的时候css,js引入的路径问题。
 
