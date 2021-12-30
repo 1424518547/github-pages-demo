@@ -9,6 +9,8 @@ GitHub Pages 站点分为三种类型：项目、用户和组织。项目站点�
 您只能为 GitHub 上的每个帐户创建一个用户或组织站点。项目站点，无论是由组织还是用户帐户拥有，都是不受限制的。
 
 ### GitHub Pages 步骤
+[https://1424518547.github.io/github-pages-demo/deploy-react-project](https://1424518547.github.io/github-pages-demo/deploy-react-project)
+
 [https://zhuanlan.zhihu.com/p/338039059](https://zhuanlan.zhihu.com/p/338039059)
 
 ### GitHub Pages React 项目 一键布署
